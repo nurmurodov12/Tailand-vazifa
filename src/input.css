@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Orbitron:wght@400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+body {
+    font-family: 'Roboto';
+}
+
+
+
+.charx {
+    background-image: url('../images/charx1.jpg');
+}
+
+.footer-li {
+    @apply text-[#605d5d] text-[14px];
+}
